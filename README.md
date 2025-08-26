@@ -19,9 +19,16 @@
 </p>
 
 ## 🌸 About Me
+```yaml
 Hi everyone! ✨ 
 
-My name is Elle, and I'm a software engineer who loves mixing science, code, and creativity! I specialize in employing machine learning for the optimization and automation of everyday workflows. My passion is combining my knowledge of science and medicine with creative problem solving and critical thinking skills to build innovative applications in the biotech sphere. This profile is where I showcase my early career academic and personal projects!
+My name is Elle, and I'm a software engineer who loves mixing science, code, and creativity!
+I specialize in employing machine learning for the optimization and automation of everyday workflows.
+My passion is combining my knowledge of science and medicine with creative problem solving and critical
+thinking skills to build innovative applications in the biotech sphere.
+
+This profile is where I showcase my early career academic and personal projects!
+```
 
 ## 💖 What I Love
 - Coding projects from scratch 
@@ -53,6 +60,8 @@ My name is Elle, and I'm a software engineer who loves mixing science, code, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
   <!-- Scikit Learn -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="R" width="50" height="50"/>
+   <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="50" height="50"/>
   <!-- FastAPI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
   <!-- Keras -->
