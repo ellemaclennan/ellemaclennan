@@ -1,16 +1,30 @@
 <!-- Profile README -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Welcome%20to%20My%20Profile!%20&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=👾Take%20a%20%20look%20around!👾%20&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=300&section=header&text=Welcome%20to%20My%20Profile!%20&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=👾Let's%20connect!👾%20&descAlignY=55&descAlign=50)
 
 <p align="center">
-  <img src="HotRod.gif" width="500" alt="Hot Rod Bike Jump"/>
+  <!-- Instagram (Pink) -->
+  <a href="https://instagram.com/ellemaclennan" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffb6c1/instagram-new.png" 
+         alt="Instagram" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- LinkedIn (Pink) -->
+  <a href="https://linkedin.com/in/elle-maclennnan" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffb6c1/linkedin.png" 
+         alt="LinkedIn" width="60" height="60"/>
+  </a>
+</p>
+
+
+<p align="left">
+  <img src="pink_machine_learning.webp" width="850" alt="Pink machine learning"/>
 </p>
 
 ## 🌸 About Me
 Hi everyone! ✨ 
 
-My name is Elle, and I'm a software engineer who loves mixing science, code, and creativity! I specialize in employing machine learning for the optimization and automation of everyday workflows. My passion is combining my knowledge of science and medicine with creative problem solving and critical thinking skills to build innovative applications in the biotech sphere.
-This profile is where I showcase my early career academic and personal projects!
+My name is Elle, and I'm a software engineer who loves mixing science, code, and creativity! I specialize in employing machine learning for the optimization and automation of everyday workflows. My passion is combining my knowledge of science and medicine with creative problem solving and critical thinking skills to build innovative applications in the biotech sphere. This profile is where I showcase my early career academic and personal projects!
 
 ## 💖 What I Love
 - Coding projects from scratch 
@@ -71,12 +85,6 @@ This profile is where I showcase my early career academic and personal projects!
   <!-- Numpy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="R" width="50" height="50"/>
   <!-- Slack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="R" width="50" height="50"/>
-  
-  
-          
-  
-          
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="R" width="50" height="50"/>        
 </p>
 
