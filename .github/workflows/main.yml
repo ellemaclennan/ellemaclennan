@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours at minute 0
+    - cron: "0 */12 * * *"   # every 12 hours
   workflow_dispatch:
 
 permissions:
@@ -13,12 +13,17 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVG
+      - name: Generate snake SVG (pink)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ellemaclennan
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-pink.svg?palette=custom
+        env:
+          COLOR_SNAKE: ff69b4       # hot pink snake
+          COLOR_DOT: ffb6c1         # light pink filled cells
+          COLOR_DOT_EMPTY: fdf0f6   # pale pink empty cells
+          COLOR_BG: fdf6fa          # soft blush background
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
