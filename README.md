@@ -1,7 +1,9 @@
 <!-- Profile README -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=300&section=header&text=Welcome%20to%20My%20Profile!%20&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=👾Let's%20connect!👾%20&descAlignY=55&descAlign=50)
-
+<p align="left">
+  <img src="pink_data.jpeg" width="850" alt="Pink machine learning"/>
+</p>
 <p align="center">
   <!-- Instagram (Pink) -->
   <a href="https://instagram.com/ellemaclennan" target="_blank">
@@ -14,11 +16,6 @@
     <img src="https://img.icons8.com/ios-filled/50/ffb6c1/linkedin.png" 
          alt="LinkedIn" width="60" height="60"/>
   </a>
-</p>
-
-
-<p align="left">
-  <img src="pink_data.jpeg" width="850" alt="Pink machine learning"/>
 </p>
 
 ## 🌸 About Me
