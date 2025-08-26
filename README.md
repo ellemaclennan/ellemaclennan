@@ -18,7 +18,7 @@
 
 
 <p align="left">
-  <img src="pink_machine_learning.webp" width="850" alt="Pink machine learning"/>
+  <img src="pink_data.jpeg" width="850" alt="Pink machine learning"/>
 </p>
 
 ## 🌸 About Me
