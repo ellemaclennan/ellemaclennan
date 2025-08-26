@@ -97,4 +97,4 @@ This profile is where I showcase my early career academic and personal projects!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="R" width="50" height="50"/>        
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer
+![footer](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=footer)
