@@ -29,6 +29,8 @@ thinking skills to build innovative applications in the biotech sphere.
 
 This profile is where I showcase my early career academic and personal projects!
 ```
+## My Contributions... As a Snake Game 🐍
+![Snake animation](https://github.com/ellemaclennan/ellemaclennan/blob/output/github-contribution-grid-snake.svg)
 
 ## 💖 What I Love
 - Coding projects from scratch 
