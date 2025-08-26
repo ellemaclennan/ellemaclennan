@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Welcome%20to%20My%20Profile%20&fontColor=ffffff&fontSize=35&fontAlignY=35&desc=Let's%20Connect!%20&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Welcome%20to%20My%20Profile!%20&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=👾Take%20a%20%20look%20around!👾%20&descAlignY=55&descAlign=50)
 
 ## 🌸 About Me
 Hi everyone! ✨ 
@@ -20,8 +20,9 @@ This profile is where I showcase my early career academic and personal projects!
 - Hiking
 - Riding motorcycles
 
+![Hot Rod Bike Jump](https://makeagif.com/gif/hot-rod-910-movie-clip-lets-jump-this-jump-2007-hd-7VPtgd.gif)
 <p align="center">
-  <img src="[https://media.tenor.com/Wx9IEmZZXSoAAAAC/hot-rod-pool.gif](https://tenor.com/view/hot-rod-comedy-andy-samberg-pool-jump-fail-gif-3895173)" width="400" alt="Half Way There GIF"/>
+  <img src="https://makeagif.com/gif/hot-rod-910-movie-clip-lets-jump-this-jump-2007-hd-7VPtgd.gif" width="400" alt="Hot Rod Bike Jump"/>
 </p>
 
 
