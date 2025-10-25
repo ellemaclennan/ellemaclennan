@@ -23,9 +23,9 @@
 Hi everyone! ✨ 
 
 My name is Elle, and I'm a software engineer who loves mixing science, code, and creativity!
-I specialize in employing machine learning for the optimization and automation of everyday workflows.
+I specialize in solution engineering, specifically in employing machine learning algorithms for the optimization and automation of everyday workflows.
 My passion is combining my knowledge of science and medicine with creative problem solving and critical
-thinking skills to build innovative applications in the biotech sphere.
+thinking skills to build innovative applications in the biotech sphere. I'm particularly interested in LLM incorporation/custom fine-tuning, foundation model development, and agentic workflows!
 
 This profile is where I showcase my early career academic and personal projects!
 ```
