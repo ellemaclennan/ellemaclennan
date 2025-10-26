@@ -29,8 +29,6 @@ My passion is combining my knowledge of science and medicine with creative probl
 and critical thinking skills to build innovative applications in the biotech sphere.
 I'm particularly interested in LLM incorporation/custom fine-tuning, foundation model development,
 and agentic workflows!
-
-This profile is where I showcase my early career academic and personal projects!
 ```
 ## My Contributions... As a Snake Game 🐍
 ![Pink Snake](https://raw.githubusercontent.com/ellemaclennan/ellemaclennan/output/github-contribution-grid-snake-pink.svg)
